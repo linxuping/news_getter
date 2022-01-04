@@ -1,0 +1,463 @@
+193049 INFO: init old news: 6080
+193050 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193050 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+193050 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 3.140000 %
+193050 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+193050 INFO: utf_8 is most likely the one. Stopping the process.
+193050 INFO: news end | 番禺 石楼
+193214 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193214 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+193214 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+193214 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+193214 INFO: utf_8 is most likely the one. Stopping the process.
+193214 INFO: 1天内 2021年10月16日,由广州市社会组织管理局指导,广州市社会组织联合会、广州市古玩行业协会、广州社联困境儿童关爱中心主办,广东岭南美术院、广东衡益拍卖有限公司协办的“... news
+193214 INFO:     http://www.baidu.com/link?url=_vThGDhnwR7OodTYtFrc87Ous4ooTQAs6fC2gIDEhqZ4GvVBG0SeooUm-kbqPdGr5eywhK7PfSKk5XUdWjNRua 腾讯内容开放平台 page.om.qq.com/page/  news
+193214 INFO: news
+193214 INFO: news end | 番禺 石碁
+193333 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193333 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+193333 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+193333 INFO: utf_8 is most likely the one. Stopping the process.
+193544 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193544 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+193544 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+193544 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Norwegian', 1.0)] using utf_8
+193544 INFO: utf_8 is most likely the one. Stopping the process.
+193544 INFO: news end | 番禺 海傍
+193645 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193645 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+193645 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+193645 INFO: utf_8 is most likely the one. Stopping the process.
+193933 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+193933 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+193933 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+193933 INFO: utf_8 is most likely the one. Stopping the process.
+194208 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+194208 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+194208 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+194208 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Norwegian', 1.0), ('English', 0.9905)] using utf_8
+194208 INFO: utf_8 is most likely the one. Stopping the process.
+194208 INFO: 10小时前 佛莞城际起点为广州南站,终点为东莞西站,全线设广州长隆站(原长隆站)、东环站(原番禺大道站)、官桥站、广州莲花山站(原莲花站)、麻涌站共5座车站,正线全长36.731km,... news
+194208 INFO:     http://www.baidu.com/link?url=wMScx9UkNsrTKC0So744cDO3wsF7dAkdQAEOpqn2WpQbDxHGjZVZ4UURr_WJ93UQi5WeJY5ACTDQiwgctBiTva 佛莞城际要来啦!与莞惠城际贯通后,命名为 腾讯网  news
+194208 INFO: news
+194208 INFO: 11小时前 深圳的核心依然在莲花山脚下,从市民中心一路蜿蜒到香蜜湖新金融中心,从福田CBD到香蜜湖新金融中心,构建的“福田新中心”在大湾区都堪称金融产业顶流的“食物链”。 ... news
+194208 INFO:     http://www.baidu.com/link?url=BOU-4RwiYsuN9SSP2x48lkrHm53rquao587f_hRHmCCKk3WwAgl45l9FfHVGilk2-6VPnJ2kXnZlK2WGgzxpx07_0u8sAnHSnQVVjdfA2sK 开年大机遇!影响深圳15年,买香蜜湖的最 腾讯网  news
+194208 INFO: news
+194208 INFO: 1天前 革命老区的孩子“作客”番禺,  在同一片蓝天下,  共同感受城市发展之幸福。 2021有分享,更有梦想。 当三名番禺健儿  代表国家队出征东京奥运赛场时,  “番禺”二字就是我们心中的荣耀。 盛夏... news
+194208 INFO:     http://www.baidu.com/link?url=bGLuaH5FQXMDiVSKH3T-lg9XtoAhwo11JRvKty_koknb6xa15XbbkzJi3RrNGy8OlGyKKqnoxyqAAJGKNfHvk2K2mf1rb7xaikfYstaTyd3 <div class="c-img c- 百度快照  news
+194208 INFO: news
+194208 INFO: 1天前 革命老区的孩子“作客”番禺，在同一片蓝天下，共同感受城市发展之幸福。2021有分享，更有梦想。当三名番禺健儿 代表国家队出征东京奥运赛场时，“番禺”二字就是我们心中的荣耀。盛夏，人杰... news
+194208 INFO:     http://www.baidu.com/link?url=CdUYV_AgwrIVUOSZ6yS_U0qrAO6uJcXCKbT-yMnG-GcZp1EcOutMx928CI36fPqpMLTVdE5C-tTjn0GCPmLBUcdUem_4xuAwTaYStkAJ517 <div class="c-img c- 百度快照  news
+194208 INFO: news
+194208 INFO: news end | 番禺 莲花山
+194339 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+194339 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+194339 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+194339 INFO: utf_8 is most likely the one. Stopping the process.
+194550 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+194550 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+194550 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+194550 INFO: utf_8 is most likely the one. Stopping the process.
+194851 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+194851 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+194851 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+194851 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+194851 INFO: utf_8 is most likely the one. Stopping the process.
+194851 INFO: 1天内 广州市番禺石基屠宰场于2021年12月31日正式关停 据了解,广州市农业农村局于2019年印发《广州市生猪屠宰场布局和建设工作方案》,在全市范围内规划建设5家标准化生猪定点... news
+194851 INFO:     http://www.baidu.com/link?url=BznxH10nSUdZIZioNvom9RRNM3b-42QvFnPQSfBDbc2mQo0tjHTYh8rl6hKTfQOLohARh_l50fFFtKdYUvtxda <em>番禺</em> www.nqtt.com.cn/news  news
+194851 INFO: news
+194851 INFO: 4小时前 整栋楼住了几十个人,几乎每个房间有人租住的房间都有电动,房间内也没有按广州消防规定配备灭火器材,消防通道也没有,只有走廊步行通道,电梯楼下经常放着电动车,整天充... news
+194851 INFO:     http://www.baidu.com/link?url=ZnY-EgWs6U0LNC3RTGtnnzcnmDsCZwkK08UF0Ojcjot95anGLHw6pxfE4frexPSBarHZOYMV17LyEyLMsb47oMdtfSsyWpAIpO-NQQmJuUe 广州市 领导留言板  news
+194851 INFO: news
+194851 INFO: 1小时前 广州印之记婴儿胎毛纪念品制作公司服务热线020-81308560.微信15913154468.大众点评店铺网址http://t.dianping.com/deal/652825649。或在大众点评搜索胎毛笔关键词 广州印之记胎毛笔业有限... news
+194851 INFO:     http://www.baidu.com/link?url=Kf2zwJnvEmSDs5iwVITeSFWJ3RWia4w2KFXowLbHTTsceXd3uK2G3kmQdgQjurOiO0uJZCiPp3S139FHDhO_cE7f22aRHlaUaFfdl7XA8he <div class="c-img c- 百度快照  news
+194851 INFO: news
+194851 INFO: news end | 番禺 石基
+195039 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+195039 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+195039 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+195039 INFO: utf_8 is most likely the one. Stopping the process.
+195304 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+195304 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+195304 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+195304 INFO: utf_8 is most likely the one. Stopping the process.
+195510 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+195510 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+195510 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+195510 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+195510 INFO: utf_8 is most likely the one. Stopping the process.
+195510 INFO: 1天内 电话:(020)83828521 详细信息 景点级别:无 主题分类:暂无 附近公交站:烈士陵园(1|11)烈士陵园中山医较场西路东川路市八医院(肝病医院)东华东路西肿瘤医院东华西路 附近... news
+195510 INFO:     http://www.baidu.com/link?url=d4zxVxrGtdKBk9ydNv-F6RhZ6EUziaWYl3m7vDnB4h01QMM-p8WUn9AhbMkgUArT 广州起义烈士陵园门票_广州起义烈士陵园_ guangzhou.8684.com/c  news
+195510 INFO: news
+195652 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+195652 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+195652 INFO: ascii should target any language(s) of ['Latin Based']
+195652 INFO: ascii is most likely the one. Stopping the process.
+195652 ERROR: 番禺 四号线 1 fetch error: b'\n'
+195937 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+195937 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+195937 INFO: ascii should target any language(s) of ['Latin Based']
+195937 INFO: ascii is most likely the one. Stopping the process.
+195937 ERROR: 番禺 四号线 1 fetch error: b'\n'
+200139 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+200139 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+200139 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+200139 INFO: utf_8 is most likely the one. Stopping the process.
+200416 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+200416 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+200416 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+200416 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+200416 INFO: utf_8 is most likely the one. Stopping the process.
+200417 INFO: 43分钟前 四、本通告自2022年1月22日起施行,有效期5年。《广州市人民政府关于广州火车南站禁止摩托车上道路行驶范围的通告》(穗府规〔2018〕12号)同时废止。 广州市人民政府 2... news
+200417 INFO:     http://www.baidu.com/link?url=4GSrgDWIpLJwZKNIwCG1mTgOqDllkmi6nSByZeppWvoMjFICfrEdm9FEjX5sPm0e <em>番禺</em> sqop.qq.com/a/202201  news
+200417 INFO: news
+200417 INFO: 1小时前 番禺到南宁物流公司2022更新中【全境-派送】联系方式:18825186118, 番禺到南宁物流公司 物流专线2021(直达全境)18825186118,《我的承诺,你的选择直达》==快速运输选择专业=服务周到==承接... news
+200417 INFO:     http://www.baidu.com/link?url=xLJTmktg1tbU38x003xgCr8zZNxX0EOTZVdj0QTMTIe7t91nR4TniRaoSKtJ4zxbVYzj27Z-TqLQLYcRtY1zr_Om2xqF2OztRi_6JaKgO6_ www.china6688.com/sh 百度快照  news
+200417 INFO: news
+200417 INFO: 41分钟前 「广州番禺」明日（1/4），多云，13~22℃，无持续风向<3级，空气质量优 广州番禺，明日多云，白天最高气温22℃，夜间最低气温13℃，无持续风向 news
+200417 INFO:     http://www.baidu.com/link?url=W97ADRoCL0OsnXbLskI8FQfHi2jZFb3-RWzcsumNgALdg1FHeh9Nft3ofWGiwt5J3gcEP0k-6CQgSsxfVO8ENBCnCyC7AjlVlCrZTznWvIO <div class="c-img c- 百度快照  news
+200417 INFO: news
+200417 INFO: 是的,广州地铁22号线。 庆幸的是,暂时失约,丝毫不会影响这一条线路的「期待值」和「含金量」。 01 广州地铁22号线线路主体工程起于番禺区番禺广场,至白鹅潭,连接广州南站和白... news
+200417 INFO:     http://www.baidu.com/link?url=YYoOLSXJXaBozp1Dc8CnGQfTt0j199ApkGKAxq7OwStxKfk0Poweee4nB0IkJO36 「期待值」满分的22 搜狐网  news
+200417 INFO: news
+200417 INFO: 2小时前 广州印之记胎毛笔业有限公司是专业制作胎毛笔,胎毛章,胎毛画,胎毛手链,胎毛车挂,胎毛戒指,胎毛梳子,胎毛坠,手脚印等产品专业生产加工的有限公司,公司总部设在广东省广州天河区珠江新城华强... news
+200417 INFO:     http://www.baidu.com/link?url=r3gn-BWS45_vB43jYGMBv9YS5VxCuv1nJejW6PQMJpTTmZchYrYC49svu0ZFdWLfw3JJ7w1lzrkwvlINZ1BThP2tMnBW9TvwoecPXhH8C6G <div class="c-img c- 百度快照  news
+200417 INFO: news
+200417 INFO: 2小时前 形成路面、水面两条长长的红花风景线 前来赏花的市民络绎不绝 “撂荒地”变身“百果园”! 番禺这处农业观光园火了 元旦假日期间  大龙街傍雁路的草莓园、 东环街东沙村的草莓园、 石碁镇大... news
+200417 INFO:     http://www.baidu.com/link?url=dIZEqaHt68fs2wb9l6ziXXEFY1itQMLEtejYhk9VPug-JG1S-nHqUBu4Jeo6-rAmyia8zZDxwxXvdv_PQovlFq 搜狐网 百度快照  news
+200417 INFO: news
+200550 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+200550 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+200550 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+200550 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('English', 0.9913)] using utf_8
+200550 INFO: utf_8 is most likely the one. Stopping the process.
+200550 INFO: 1小时前 番禺到渠县物流公司2022更新中【全境-派送】联系方式:18924168919, 番禺到渠县物流公司 物流专线2021(直达全境)18924168919,《我的承诺,你的选择直达》==快速运输选择专业=服务周到==承接... news
+200550 INFO:     http://www.baidu.com/link?url=PqC47TMvzQ9qmMObUXzYOOXDjdcaKZX6ler5K5IfcYTMQFtib8ZCD1-8h2G1U9JSbm3Umz0shKB6E371Lfe7GANUEd0fpPMY0gcWLBi18aC www.china6688.com/sh 百度快照  news
+200550 INFO: news
+200550 INFO: 1天内 福利一:线上下订只需9.9元,没核销可线上申请退,紧限京东/Tamll支付哦。福利二:买现代找番禺宏现,90天0日供一张身份证即可0元用车,轻松把爱车贷回家。福利三:第七代伊兰特十万元爆款家轿,首付... news
+200550 INFO:     http://www.baidu.com/link?url=G_ncYZT1fwEvfd8vAMrREFmHdggEdpo0YQW8hWBxSz6T9Kki0CzUl3dL5obtEh8a2I2xctchBrg_86zyiJXeIK buy.autohome.com.cn/ 百度快照  news
+200550 INFO: news
+200550 INFO: 1小时前 在试乘时,小南遇到了一对夫妻,他们是特意从番禺广场乘坐地铁十八号线来到南沙一日游的,便邀请他们一同乘坐了南沙23路。 ,时长01:30  今年60多岁的陈阿姨说:“搭乘体验... news
+200550 INFO:     http://www.baidu.com/link?url=s_WHoqM_Y78dqJ6GK1FvC_MbSLJ73jeMvqIv0LScY0rC2BKI11rYuvC9x_RhD0fhSiGu9u2_fXiU1BeauHbqfy-UJZ-KlGAtPWfYFLvSjsa 亲测!南沙无人驾驶小巴,稳如“老司机”_ static.nfapp.southcn  news
+200550 INFO: news
+200550 INFO: news end | 番禺 四号线
+200706 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+200706 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+200706 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+200706 INFO: utf_8 is most likely the one. Stopping the process.
+200942 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+200942 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+200942 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+200942 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Norwegian', 1.0), ('English', 0.9909)] using utf_8
+200942 INFO: utf_8 is most likely the one. Stopping the process.
+201059 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+201059 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+201059 INFO: ascii should target any language(s) of ['Latin Based']
+201059 INFO: ascii is most likely the one. Stopping the process.
+201059 ERROR: 广州 亚运城 1 fetch error: b'\n'
+201358 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+201358 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+201358 INFO: ascii should target any language(s) of ['Latin Based']
+201358 INFO: ascii is most likely the one. Stopping the process.
+201358 ERROR: 广州 亚运城 1 fetch error: b'\n'
+201626 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+201626 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+201626 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+201626 INFO: utf_8 is most likely the one. Stopping the process.
+201917 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+201917 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+201917 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+201917 INFO: utf_8 is most likely the one. Stopping the process.
+201917 ERROR: 广州 亚运城 1 ps error != 1: [] try: 3
+201917 INFO: news end | 广州 亚运城
+202151 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+202151 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+202151 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+202151 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+202151 INFO: utf_8 is most likely the one. Stopping the process.
+202302 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+202302 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+202302 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+202302 INFO: utf_8 is most likely the one. Stopping the process.
+202515 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+202515 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+202515 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+202515 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+202515 INFO: utf_8 is most likely the one. Stopping the process.
+202618 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+202618 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+202618 INFO: ascii should target any language(s) of ['Latin Based']
+202618 INFO: ascii is most likely the one. Stopping the process.
+202618 ERROR: 番禺 亚运城 2 fetch error: b'\n'
+202821 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+202821 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+202821 INFO: ascii should target any language(s) of ['Latin Based']
+202821 INFO: ascii is most likely the one. Stopping the process.
+202821 ERROR: 番禺 亚运城 2 fetch error: b'\n'
+203039 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+203039 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+203039 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+203039 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+203039 INFO: utf_8 is most likely the one. Stopping the process.
+203039 INFO: news end | 番禺 亚运城
+203225 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+203225 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+203225 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+203225 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+203225 INFO: utf_8 is most likely the one. Stopping the process.
+203225 INFO: 1天内 预计2022年1月1日至7日(每日0时至7时),增城区永宁街碧桂园凤凰城天麓山片区、碧桂园云顶片区、永和中学片区、新新公路翟洞路口以北等区域水压降低,其中新新公路翟洞路口... news
+203225 INFO:     http://www.baidu.com/link?url=_DVkWUX15wc4MseLCu4iM0yGFNOTa1n5tioK_KTUMc2L19q9fiZvI0CMhnTyA5uu_uen0XFmb5F-HPnnAfXYEK 腾讯内容开放平台 page.om.qq.com/page/  news
+203225 INFO: news
+203225 INFO: news end | 增城 凤凰城
+203423 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+203423 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+203423 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+203423 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+203423 INFO: utf_8 is most likely the one. Stopping the process.
+203423 INFO: 2小时前 听说,在增城有个地方 启动了欢乐国潮季 以传承经典、创新欢乐的方式 陪大家开启新的一年 灵动飘逸 华贵逼人 飒爽英姿 多名国潮达人现身增城永宁街 惊艳的华服大秀赢尽街坊眼球 当然 作为一... news
+203423 INFO:     http://www.baidu.com/link?url=Flipw7kWQXOeeM8TILjzEwulUCHoNlJk2A8wpqfYvlpH0OtoO_YHpuTbusmUcfdxSdum_8hJkRUcyaNH8lMTnq 腾讯网 百度快照  news
+203423 INFO: news
+203423 INFO: 2小时前 听说,在增城有个地方 启动了欢乐国潮季 以传承经典、创新欢乐的方式 陪大家开启新的一年 灵动飘逸 华贵逼人 飒爽英姿 多名国潮达人现身增城永宁街 惊艳的华服大秀赢尽街坊眼球 点击播放 GI... news
+203423 INFO:     http://www.baidu.com/link?url=P1SD_9I2gOH5JJ9pmFt5HeJPV7uOB7iGDVxyCjb_XjNcypt6Fd9IEqBnatbDcMUEepJsSopsnjewrOSi49HiBK 腾讯网 百度快照  news
+203423 INFO: news
+203423 INFO: 1小时前 听说,在增城有个地方 启动了欢乐国潮季 以传承经典、创新欢乐的方式 陪大家开启新的一年 灵动飘逸 华贵逼人 飒爽英姿 多名国潮达人现身增城永宁街 惊艳的华服大秀赢尽... news
+203423 INFO:     http://www.baidu.com/link?url=V3XjRzifgSVzhRmUVntzCeW_vQuHQDrf83D4skZjHvrENqetlKbjhTUVhPrIZIsdlnngp1YkP1JRDfI0EkemlK 好玩到不停 潮“虎”你想象|欢乐世界|游 网易新闻  news
+203423 INFO: news
+203423 INFO: news end | 增城 永宁
+203536 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+203536 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+203536 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+203536 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+203536 INFO: utf_8 is most likely the one. Stopping the process.
+203536 INFO: 4小时前 锡场出台一条龙【网址:202097.㏄】.{饶茂SEO_中国新闻网标题} 打赏发表评论 0评 首页  党建工作 医院简介 专家团队 来院路线 联系我们1 2 3沈阳曙光医院建于2007年,现... news
+203536 INFO:     http://www.baidu.com/link?url=DXarIgnnpxafgi-yHuNO6MwHyXL0IMrfHjJs6A-ppJx0fTYZJHutqp1XuuzGdrCx9M3lDs89DbSYJlUoMtFVGNDvSzn9pSP2M4u_7ZJGZp7 <em>锡场</em> www.sysg.name/?s=/ho  news
+203536 INFO: news
+203536 INFO: 1天内 地址:揭阳市揭东区锡场镇锡西村后碑岭8号成立日期:2020-02-21注册资本:100(万元)统一社会信用代码:91445203MA54BJQC5A经营范围:研发、生产、销售:防护服装、防护手套、... news
+203536 INFO:     http://www.baidu.com/link?url=i439VzL1NWSFW8etpeqyW-HfNYJetzwmFovX1mYbeujz6w1R9xvcwsuwKK8hU9GfxZvuBRmsCPNWuLM5VJWM7qmzbXYngIDY7C-f83Hd1LK 揭阳市恒乐康医疗器械有限公司 jiuchutong.com/qiye/  news
+203536 INFO: news
+203536 INFO: 1天内 锡场镇  >  康禾镇  >  涧头镇  >  义合镇  >  半江镇  >  新回龙镇  >  双江镇  >  骆湖镇  >  黄田镇  >  顺天镇  >  新港镇  >  柳城镇  >  仙塘镇  >  漳溪乡  >  ... news
+203536 INFO:     http://www.baidu.com/link?url=Q8j2EmI5aoCvwhouQGKJq3bgkIbr607c8Ky_ybNwprTIfOCSD3o559dRXl-jsXINQAlS9MYxqKmZDesc-hG1rh5yqIdOV9IyhOQglWzjQQu 【东源黄田镇天气预报】黄田镇天气预报一周 www.tianqi.com/guang  news
+203536 INFO: news
+203536 INFO: 4小时前 揭东县锡场镇锡东中心小学 宁城县八里罕镇杨树林子小学 揭西县下砂乡宝石小学 高密市大牟家镇永丰屯村小学 茌平县韩集乡王鄂小学 朔州市平鲁区向阳堡乡西钟牌村小学 ... news
+203536 INFO:     http://www.baidu.com/link?url=LcsK3tqkUdI2AILOxT-VAk5EIquYZAVVs7-u_7OeGJxFPfXQeAX41DVVAkbRMIZw-6Nh4Y_J6Tip5KwolnPvCa 黑龙江2013年高考:清理规范高考加分政 mip.zle.com/xuexiao_  news
+203536 INFO: news
+203714 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+203714 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+203714 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+203714 INFO: utf_8 is most likely the one. Stopping the process.
+204002 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+204002 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+204002 INFO: ascii should target any language(s) of ['Latin Based']
+204002 INFO: ascii is most likely the one. Stopping the process.
+204002 ERROR: 锡场 1 fetch error: b'\n'
+204221 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+204221 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+204221 INFO: ascii should target any language(s) of ['Latin Based']
+204221 INFO: ascii is most likely the one. Stopping the process.
+204221 ERROR: 锡场 1 fetch error: b'\n'
+204446 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+204446 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+204446 INFO: ascii should target any language(s) of ['Latin Based']
+204446 INFO: ascii is most likely the one. Stopping the process.
+204446 ERROR: 锡场 1 fetch error: b'\n'
+204446 ERROR: 锡场 1 ps error != 1: [] try: 3
+204446 INFO: news end | 锡场
+204656 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+204656 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+204656 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+204656 INFO: utf_8 is most likely the one. Stopping the process.
+204941 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+204941 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+204941 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+204941 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Finnish', 1.0)] using utf_8
+204941 INFO: utf_8 is most likely the one. Stopping the process.
+204941 INFO: 5小时前 地址:广东省-揭阳市-揭东区新亨镇蓝田中学 联系方式:*** 供应商(乙方): 揭阳市博恩科技有限公司 地址:广东省揭阳市揭东区曲溪街道 联系方式:*** 六、合同主要信息 主... news
+204941 INFO:     http://www.baidu.com/link?url=4i_Nj8htiVfQgTRuhFDCadD0ucR4brB4NxWZEAItLRsBkWfhafYk05vHtXIio-bBkTLKbCx-1lxBjvHniSvVLaVVtbQRkAi-isbSCMZM0gi 揭阳市揭东区蓝田中学揭阳市揭东区蓝田中学 wap.huobiao.cn/detai  news
+204941 INFO: news
+204941 INFO: 10小时前 汕昆高速公路揭阳新亨至梅州畲江段及梅汕高速公路梅州程江至畲江段改扩建工程勘察设计招标公告  XXX揭阳新亨至梅州畲XXX梅州程江至畲江段改XXX勘察设计公告简要项目X... news
+204941 INFO:     http://www.baidu.com/link?url=jUP0P10YnvNe2ySi9q-nOFErYZcAOWQps2nFZVOyxwNKCJVUclG8f7bb9AecAqVx00rT-P2Pw_nd95-KSR2Skq 中铁上海工程局昔榆高速公路LJ9标项目经 cdn.chinabidding.cn/  news
+204941 INFO: news
+205110 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+205110 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+205110 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+205110 INFO: utf_8 is most likely the one. Stopping the process.
+205407 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+205407 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+205407 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+205407 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+205407 INFO: utf_8 is most likely the one. Stopping the process.
+205559 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+205559 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+205559 INFO: ascii should target any language(s) of ['Latin Based']
+205559 INFO: ascii is most likely the one. Stopping the process.
+205559 ERROR: 新亨 2 fetch error: b'\n'
+205813 WARNING: Trying to detect encoding from a tiny portion of (1) byte(s).
+205813 INFO: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+205813 INFO: ascii should target any language(s) of ['Latin Based']
+205813 INFO: ascii is most likely the one. Stopping the process.
+205813 ERROR: 新亨 2 fetch error: b'\n'
+210014 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210014 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210014 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+210014 INFO: utf_8 is most likely the one. Stopping the process.
+210312 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210312 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210312 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+210312 INFO: utf_8 is most likely the one. Stopping the process.
+210312 ERROR: 新亨 2 ps error != 1: [] try: 3
+210312 INFO: news end | 新亨
+210517 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210517 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210517 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+210517 INFO: utf_8 is most likely the one. Stopping the process.
+210718 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210718 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+210718 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210718 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('German', 1.0), ('English', 0.9905), ('Dutch', 0.9762)] using utf_8
+210718 INFO: utf_8 is most likely the one. Stopping the process.
+210718 INFO: 10小时前 从陈头岗的星瀚TOD,到市广路的祈福新村,再到番禺广场东怡新地、东秀园、东华花园,它一路串起十几个大型居住区。 03 其次,则是对板块价值的提升。 在社会地理学上,有一个广受推崇的理论叫... news
+210718 INFO:     http://www.baidu.com/link?url=3aBG02lvmOt2dzrPkYiabX3Xv1zaqtwHsnC2Z3CxVS9xstzkke4y89GjPskHEwpxscwLTbUe-LtO3Kz8OtzxHq 搜狐网 百度快照  news
+210718 INFO: news
+210718 INFO: 2小时前 祈福缤纷汇 38874元/平 保利悦公馆 40648元/平 保利大都汇 21302元/平 8 增城区 增城12月二手房均价 19254元/m²  增城11月二手房均价 19337元/m²环比上月下跌 0.43% ↓同比去年同期上涨 ... news
+210718 INFO:     http://www.baidu.com/link?url=tN4-FrNmWyi9wQEIBcRyEOU5up2sCufLbEZPw--gXxouOBVFFHSmhlQx5b236xdXij0ZS616dmdoB5An0HItl_ 搜狐网 百度快照  news
+210718 INFO: news
+210718 INFO: news end | 番禺 祈福
+210831 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210831 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+210831 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210831 INFO: We detected language [('English', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Indonesian', 0.9913)] using utf_8
+210831 INFO: utf_8 is most likely the one. Stopping the process.
+210831 INFO: 10小时前 排名第一的珠江花园,一直以来热度都比较高,这个小区的二手房流动性比较好,也说明这个小区的二手房品质不错,喜欢的朋友可以重点关注一下。上榜的其他小区,比如祈福新... news
+210831 INFO:     http://www.baidu.com/link?url=qtNQ7AE8aWu7qONg7nyNYw_jazR7TZws1DKWzpUPm0L3hQoNP3u3qckOi41wNqlG9Rwwv47lp5D2ghbuD0lXjlaHl1vZ_wTBZnbPieQYrNC 如果你不知道怎么选房 1月第1周番禺明星 k.sina.com.cn/articl  news
+210831 INFO: news
+210831 INFO: 1天前 番禺:荷悦居祈福新村海晴居丽江花园广州雅居乐花园十年小雅广州雅居乐花园雅翠庭 白云:白云明珠广场擎山苑金印大厦 南沙:越秀滨海珺城南沙星河丹堤叠翠峰二期 增城:源海... news
+210831 INFO:     http://www.baidu.com/link?url=4kYJ42NQWbNYU7YjZ5QujwE75K61VzODXzyGPRmcYHAA4p9B7ljBSNVTg8GFGXcjAuk48J8zQ4mlZHUKOg4STK 【粉丝卖房】降24万,黄埔东南93平3房 view.inews.qq.com/a/  news
+210831 INFO: news
+210831 INFO: 3小时前 番禺:荷悦居祈福新村海晴居丽江花园广州雅居乐花园十年小雅广州雅居乐花园雅翠庭 白云:白云明珠广场擎山苑金印大厦 南沙:越秀滨海珺城南沙星河丹堤叠翠峰二期 增城:源... news
+210831 INFO:     http://www.baidu.com/link?url=fzbWLBovPzcdu2_Vn5600YdLhR34MBhUv79yv4RypiKh73_YGCh4V5ErpB_rbMnO8bt_rXGTV2obiFvsRgKesa 【粉丝卖房】总价202万,滨江东小户型, 腾讯网  news
+210831 INFO: news
+210831 INFO: 今天, 房产君帮忙卖的是珠江新岸公寓 (住宅), 如果你有兴趣,不妨逐一细看,有喜欢的房子时,直接联系业主。 业主自荐 房屋于2020年底重新装修,靠近第二中轴线核心区,交通方便,... news
+210831 INFO:     http://www.baidu.com/link?url=YYoOLSXJXaBozp1Dc8CnGQfTt0j199ApkGKAxq7OwSrDpNc7cWwqkyA7uihBTAzH 【粉丝卖房】总价202万,滨江东小户型, 搜狐网  news
+210831 INFO: news
+210831 INFO: news end | 祈福新村
+210954 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+210954 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+210954 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+210954 INFO: utf_8 is most likely the one. Stopping the process.
+211205 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+211205 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+211205 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+211205 INFO: utf_8 is most likely the one. Stopping the process.
+211414 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+211414 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+211414 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 1.380000 %
+211414 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Norwegian', 1.0), ('English', 0.9909)] using utf_8
+211414 INFO: utf_8 is most likely the one. Stopping the process.
+211414 INFO: news end | 祈福新邨
+211539 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+211539 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+211539 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+211539 INFO: utf_8 is most likely the one. Stopping the process.
+211810 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+211810 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+211810 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+211810 INFO: utf_8 is most likely the one. Stopping the process.
+212015 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+212015 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+212015 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+212015 INFO: utf_8 is most likely the one. Stopping the process.
+212309 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+212309 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+212309 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+212309 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+212309 INFO: utf_8 is most likely the one. Stopping the process.
+212309 INFO: 1天内 更多>> 黄阁镇周边景点 九曲巷(金盛巷)  临濮堂  泰安温泉区  鹿场风光  雪见游憩区  宝觉寺  孔庙  南天宫  三仙台  八仙洞 有哪些特产 有哪些美食孟家扒蹄 名士多烤全... news
+212309 INFO:     http://www.baidu.com/link?url=TraOnE2H2VtsP4KZAfcnVlJAJ55xkOjb6VXHRtTzfj644LS6o78-ckoInyYOL_ZGp2BCSpreP9spuQqGc9CQAFXHKfX2bGTpC3-BsOk7DkC 【 天气网  news
+212309 INFO: news
+212309 INFO: news end | 南沙 黄阁
+212434 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+212434 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+212434 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+212434 INFO: utf_8 is most likely the one. Stopping the process.
+212651 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+212651 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+212651 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+212651 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('French', 1.0), ('English', 0.9882), ('Dutch', 0.9706)] using utf_8
+212651 INFO: utf_8 is most likely the one. Stopping the process.
+212651 INFO: 1天前 有人欢喜有人愁!南沙多个旧改项目有变! 近日,广州对全市114个已批在建、已批未建和未批先拆的城市更新项目的全面核查有了初步报告。 报告显示,南沙的东流村、大井村、亭角村城市更新项目需要... news
+212651 INFO:     http://www.baidu.com/link?url=nXJnBJpcGuGYLqL-pe7XzIjao8M862seOnG2HQ5NkjVoTFJJ34B2zBYyXrTRsuZLockk4yulgaGHwNsJvBy7wK 搜狐网 百度快照  news
+212651 INFO: news
+212651 INFO: news end | 南沙 亭角
+212811 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+212811 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+212811 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+212811 INFO: utf_8 is most likely the one. Stopping the process.
+213015 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+213015 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+213015 INFO: We detected language [('Indonesian', 1.0), ('Simple English', 1.0), ('English', 0.99), ('Dutch', 0.9833)] using utf_8
+213015 INFO: utf_8 is most likely the one. Stopping the process.
+213230 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+213231 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+213231 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+213231 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+213231 INFO: utf_8 is most likely the one. Stopping the process.
+213231 INFO: 12小时前 广州南沙无人驾驶公交可免费试乘 2022年01月03日 08:54 新浪网 作者 深圳商报 举报 缩小字体 放大字体 收藏 ...网友卧底揭露违法代孕乱象 1月1日 21:34 生男孩 代孕 ... news
+213231 INFO:     http://www.baidu.com/link?url=Nq8pdjPbujSUb4vXjoC-VwaZO2vDE_0qsjrBeWFMhFhENA6_f6gYas66XZbFhcvxokn5lL254NtACeTjh1xgzXGB2Vna6kpuQQcDWuxbSem 快预约!广州 k.sina.com.cn/articl  news
+213231 INFO: news
+213231 INFO: 11小时前 记者了解到,南沙23路为自动驾驶公交示范线路,行驶线路自横沥地铁站公交总站至灵山岛环线,于2021年12月30日开始试运行,2022年1月1日正式上线运营,市民可通过“南沙公... news
+213231 INFO:     http://www.baidu.com/link?url=PQIg0c4DMvPlNvk1fEIyepkKWJNpwlTihUtm-cYXYdR7oCIfm5UX1o2rIPgr5fiCYSHGjGZocRNTjkFUqvSjaKFOQt5dlBOqWGPnwxktIq3 华南首条L4级无人驾驶公交示范 www.workercn.cn/3407  news
+213231 INFO: news
+213337 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+213337 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+213338 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+213338 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+213338 INFO: utf_8 is most likely the one. Stopping the process.
+213338 INFO: 1天前 人民日报报刊在第四版 报道了《南沙港铁路建成开通》 南沙港铁路2021年12月31日建成开通。南沙港铁路设计时速120公里,正线全长约88公里,线路自广珠铁路雅瑶所引出,途经江门、佛山、中山、广... news
+213338 INFO:     http://www.baidu.com/link?url=vbURjdmPmuae8pm0SqxaAhr33o9txgW2_fPs0agXO6pTu28qlYfgEm_IrZnctbdDpTJNBtdsOPtYexzlHTIwPq 网易 百度快照  news
+213338 INFO: news
+213338 INFO: 1天前 据统计，截至2021年11月底，南沙外贸进出口总值2360.5亿元，同比增长15.9%，占同期广州市外贸总值的近四分之一，其中进口990.5亿元，增长12.4%；出口1370亿元，增长18.6... news
+213338 INFO:     http://www.baidu.com/link?url=GKL2VW533OKNwYAKBvmDeDmgXYdsxDx6f76GiiUXsi2kHPhh3XRlvAUq4Qc0lkhip0hrS198U1zWzZEedE3auV5VLqVgDtIEKVG96vQy3Fe 广州 <div class="c-img c-  news
+213338 INFO: news
+213338 INFO: 1天前 四是充分利用RCEP关税优惠政策以及原产地规则,发挥南沙国家级新区叠加自贸区、粤港澳全面合作示范区和广州唯一城市副中心“三区一中心”政策和区位优势,推动南沙与RCEP... news
+213338 INFO:     http://www.baidu.com/link?url=wb_PXDgFt0Kz2xCWHpFQlCx8HKbscLZjCNOMLYGIy3bfRavltcADF_uJouE-jPbduZ6gMs-oD7-aKWiNjYOwPK 广州 view.inews.qq.com/a/  news
+213338 INFO: news
+213338 INFO: 1天前 视频:央视新闻 (本文由“广州南沙发布”原创发布,未经授权,任何媒体、公众号不得转载改编,欢迎分享到朋友圈。) 特别声明:以上内容(如有图片或视频亦包括在内)为自媒体平... news
+213338 INFO:     http://www.baidu.com/link?url=V3XjRzifgSVzhRmUVntzCeW_vQuHQDrf83D4skZjHvraUL8DdIAxCS1WnqR2X7UH_2ISRe2NbKXlf8ygwYHK4q 新年伊始,央媒聚焦报道 网易新闻  news
+213338 INFO: news
+213338 INFO: 1天前 湾区封面·建发为打造南沙第一豪宅而来 【项目简介】 金融岛中轴滨水奢境世界岛芯的中国符号 项目位于:中国首个国际金融岛中轴芯,地铁18号线横沥站旁(约250米,规划出口); 周边:4所三甲级医院... news
+213338 INFO:     http://www.baidu.com/link?url=TVEdi-4FnQjGoM3q-50DG3i2xTxgTKQHFFGZoeQQfTjTW1eYFtd15aX6cHsTYeNNvPYHXWOSqkgSaQM9fxfVWK 搜狐网 百度快照  news
+213338 INFO: news
+213338 INFO: 1天前 2.拥有全南沙最丰富的山海自然资源:被黄山鲁、鹿颈山、天山鹿山及大角山等自然生态环伺,东临狮子洋,南临伶仃洋,坐享广州唯一、湾区罕见的20公里超长海岸线。 3.汇聚南沙... news
+213338 INFO:     http://www.baidu.com/link?url=-Q4nlW-DP4IEdynFLIx7la_gtpbD0xlG55H5uLO2dWJpw2IONUN1PnhTIEKo2obJz-2apY7FwNwBxhe19x42J_ 独家解析:广州 搜狐网  news
+213338 INFO: news
+213338 INFO: 1天前 为加强我区教师队伍建设,优化教育人才层次结构,推进教育事业科学发展,参照《广东省事业单位公开招聘人员办法》(粤府令第139号)等文件,遵循“公开、平等、竞争、择优”的原则,结合南沙区实际,... news
+213338 INFO:     http://www.baidu.com/link?url=evaO4JyBPD7c5Q2WSLQcOKnT_Rz7rVUa-xvXtua9iOr8qYxJ8OwkBCgC94UvyjMJ6D283s5eYeeH1JWwg0PF6_ 搜狐网 百度快照  news
+213338 INFO: news
+213338 INFO: 1天前 且37号线定位为高速地铁,等于说,届时将按照同为高速地铁的18号线的标准打造,其运行速度将高达160km/小时! 但是37号线在规划上与18号线又有很大的不同。众所周知,18号线虽经过南沙,但有一个很... news
+213338 INFO:     http://www.baidu.com/link?url=7dmEcf-kK2KmqI03q_gABtaS0DBCw2HVjFQNTGU0aHZVbHTo8hMm9QAigGpNPXgmsAc4lqq8VXo2eX2B4Hdi6_ 腾讯网 百度快照  news
+213338 INFO: news
+213338 INFO: 1天前 2.拥有全南沙最丰富的山海自然资源:被黄山鲁、鹿颈山、天山鹿山及大角山等自然生态环伺,东临狮子洋,南临伶仃洋,坐享广州唯一、湾区罕见的20公里超长海岸线。 3.汇聚南沙最顶尖的教育配套,媲... news
+213338 INFO:     http://www.baidu.com/link?url=fH1bEheMqc1kWYFosTdXUwzHlJkAiN3M5o4AsgSy8uds8Zeet3Mk9JYaBVkoLOOccpExzuOI8XHZhHU4Q2_LC_ 搜狐网 百度快照  news
+213338 INFO: news
+213338 INFO: 2.拥有全南沙最丰富的山海自然资源:被黄山鲁、鹿颈山、天山鹿山及大角山等自然生态环伺,东临狮子洋,南临伶仃洋,坐享广州唯一、湾区罕见的20公里超长海岸线。 3.汇聚南沙最顶... news
+213338 INFO:     http://www.baidu.com/link?url=NGrjqDXWY3cdEHX83fCH-SRyqGr9wRVb_TuyNqvjKzGgC7tl1e1sdeok7fNrA-iWDJSqESud9CRktF8RBVCjUK 独家解析:广州 搜狐网  news
+213338 INFO: news
+213338 INFO: 为加强我区教师队伍建设,优化教育人才层次结构,推进教育事业科学发展,参照《广东省事业单位公开招聘人员办法》(粤府令第139号)等文件,遵循“公开、平等、竞争、择优”的原则,... news
+213338 INFO:     http://www.baidu.com/link?url=IbARZyYx3u_Ojo_8yaqyoOw8e2395wq3CQTcOmBKho35-mes5288FNy9GG2U2gYFbKhL7-odO5ulMcgZitoOl_ 赶紧报名! 搜狐网  news
+213338 INFO: news
+213338 INFO: 4小时前 邵阳县到南沙物流公司2021(全境一站达),联系我们:18825186118,公司专业从事全国各地快运行李、货物托运等综合业务。经过长期历练,在物流管理咨询、仓储服务、运输包装服务及专业培训方面,... news
+213338 INFO:     http://www.baidu.com/link?url=4wUA_Rn9ebrm4UiN-ZMbKWCyVMY5HJGX6JONY-YieoURs6W4X_eSO-8q2XVW_7Kaw-aGqAvEEF4yBChq65BlwaOzesym0x4CMYbEyCYL1yq www.0311.com.cn/s_hx 百度快照  news
+213338 INFO: news
+213338 INFO: 4小时前 馆陶县到南沙物流公司2021(全境一站达),联系我们:18825186118,公司专业从事全国各地快运行李、货物托运等综合业务。经过长期历练,在物流管理咨询、仓储服务、运输包装服务及专业培训方面,... news
+213338 INFO:     http://www.baidu.com/link?url=aKdTtZhE4TTzibr4hP0V-REojoAA9jaklqUmUS_OmU70w7PV-Nw69NbvrA3BBzIbyOjQvM809R1xMAsov99io9tc_-RRoZ3IkUj4-86rufm www.0311.com.cn/hxwl 百度快照  news
+213338 INFO: news
+213505 INFO: Detected declarative mark in sequence. Priority +1 given for utf_8.
+213505 INFO: Code page utf_8 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+213505 INFO: utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+213505 INFO: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0)] using utf_8
+213505 INFO: utf_8 is most likely the one. Stopping the process.
+213505 INFO: 1天前 但是37号线在规划上与18号线又有很大的不同。众所周知,18号线虽经过南沙,但有一个很大的BUG,就是没有经过南沙城区。 地铁18号线站点图 而37号线可以说是黄埔专线,将黄埔... news
+213505 INFO:     http://www.baidu.com/link?url=qJqbT3FxcTX9kYPHLIAM9XIMTfg73_MlY-oD0zzCbDNnhr2mOLQxsVRP-eELbPheiQAU9CIsWOdWNkAgPHWk0H8FzuyobdU_Mp_tW94KVSG 连接知识城、老黄埔、天河东的广州地铁37 腾讯网  news
+213505 INFO: news
+213505 INFO: news end | 南沙 四号线
+213645 INFO: ---- news end ----
