@@ -1,0 +1,26 @@
+144731 INFO: init old news: 6872
+144742 ERROR: 南沙 黄阁 0 fetch error: b'\n'
+144814 ERROR: 南沙 黄阁 0 fetch error: b'\n'
+144850 ERROR: 南沙 黄阁 0 fetch error: b'\n'
+144923 ERROR: 南沙 黄阁 0 fetch error: b'\n'
+144923 ERROR: 南沙 黄阁 0 ps error != 1: [] try: 3
+144923 INFO: news end | 南沙 黄阁
+145001 ERROR: 南沙 亭角 0 fetch error: b'\n'
+145036 ERROR: 南沙 亭角 0 fetch error: b'\n'
+145113 ERROR: 南沙 亭角 0 fetch error: b'\n'
+145149 ERROR: 南沙 亭角 0 fetch error: b'\n'
+145149 ERROR: 南沙 亭角 0 ps error != 1: [] try: 3
+145149 INFO: news end | 南沙 亭角
+145223 ERROR: 南沙 四号线 0 fetch error: b'\n'
+145259 ERROR: 南沙 四号线 0 fetch error: b'\n'
+145336 ERROR: 南沙 四号线 0 fetch error: b'\n'
+145413 ERROR: 南沙 四号线 0 fetch error: b'\n'
+145413 ERROR: 南沙 四号线 0 ps error != 1: [] try: 3
+145413 INFO: news end | 南沙 四号线
+145450 ERROR: 狮子洋通道 0 fetch error: b'\n'
+145529 ERROR: 狮子洋通道 0 fetch error: b'\n'
+145602 ERROR: 狮子洋通道 0 fetch error: b'\n'
+145640 ERROR: 狮子洋通道 0 fetch error: b'\n'
+145640 ERROR: 狮子洋通道 0 ps error != 1: [] try: 3
+145640 INFO: news end | 狮子洋通道
+145709 INFO: ---- loop end ----
